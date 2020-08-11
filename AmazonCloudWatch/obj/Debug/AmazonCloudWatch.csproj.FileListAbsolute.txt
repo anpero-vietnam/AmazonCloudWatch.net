@@ -1,0 +1,12 @@
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\AmazonCloudWatch.exe.config
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\AmazonCloudWatch.exe
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\AmazonCloudWatch.pdb
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\AWSSDK.dll
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\AWSSDK.pdb
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\obj\Debug\AmazonCloudWatch.csprojAssemblyReference.cache
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\obj\Debug\AmazonCloudWatch.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\obj\Debug\AmazonCloudWatch.csproj.CopyComplete
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\obj\Debug\AmazonCloudWatch.exe
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\obj\Debug\AmazonCloudWatch.pdb
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\LogHelper.dll
+C:\Users\thang\source\repos\AmazonCloudWatch\AmazonCloudWatch\bin\Debug\LogHelper.pdb
