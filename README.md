@@ -1,10 +1,9 @@
 # AmazonCloudWatch.net sample
-Support for CreateLogGroup if awslogs-group does not exist
-Support for CreateLogStream if awslogs-Stream does not exist
+1) Support for CreateLogGroup if awslogs-group does not exist,
+2) Support for CreateLogStream if awslogs-Stream does not exist
+3) Config in App.config or Web.config file
 Amazone setup
-1) Go to https://console.aws.amazon.com/cloudwatch/home go create Log groups 
-2) Click on the created Log groups to create log stream
-3) In top menu click your name > My Security Credentials > Access keys (access key ID and secret access key) > get access key ID and secret access key
+1) In top menu click your name > My Security Credentials > Access keys (access key ID and secret access key) > get access key ID and secret access key
 
 Config code
 1) Install-Package AWSSDK ( if error)
