@@ -1,6 +1,6 @@
 # AmazonCloudWatch.net sample
-upport for CreateLogGroup if awslogs-group does not exist
-upport for CreateLogStream if awslogs-Stream does not exist
+Support for CreateLogGroup if awslogs-group does not exist
+Support for CreateLogStream if awslogs-Stream does not exist
 Amazone setup
 1) Go to https://console.aws.amazon.com/cloudwatch/home go create Log groups 
 2) Click on the created Log groups to create log stream
