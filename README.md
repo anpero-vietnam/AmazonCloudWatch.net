@@ -17,57 +17,58 @@ update value keys
   <add key="logStreamName" value="get in Amazone setup step 2"/>
 
 3) Select regionEndpoint near your server in the link below and set value for key  <add key="regionEndpoint" value=""/>
-   https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/Amazon/TRegionEndpoint.html
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
    
-Amazon.RegionEndpoint list
+Amazon.RegionEndpoint System name list
 
-AFSouth1 => The Africa (Cape Town) endpoint.
+us-east-2 => US East (Ohio)
 
-APEast1 => The Asia Pacific (Hong Kong) endpoint.
+us-east-1 => US East (N. Virginia)
 
-APNortheast1 => The Asia Pacific (Tokyo) endpoint.
+us-west-1 => US West (N. California)
 
-APNortheast2 => The Asia Pacific (Seoul) endpoint.
+us-west-2 => US West (Oregon)
 
-APNortheast3 => The Asia Pacific (Osaka-Local) endpoint.
+af-south-1 => Africa (Cape Town)
 
-APSouth1 => The Asia Pacific (Mumbai) endpoint.
+ap-east-1 => Asia Pacific (Hong Kong)
 
-APSoutheast1 => The Asia Pacific (Singapore) endpoint.
+ap-south-1 => Asia Pacific (Mumbai)
 
-APSoutheast2 => The Asia Pacific (Sydney) endpoint.
+ap-northeast-3	 => Asia Pacific (Osaka-Local)
 
-CACentral1 => The Canada (Central) endpoint.
+ap-northeast-2 => Asia Pacific (Seoul)
 
-CNNorth1 => The China (Beijing) endpoint.
+ap-southeast-1 => Asia Pacific (Singapore)
 
-CNNorthWest1 => The China (Ningxia) endpoint.
+ap-southeast-2 => Asia Pacific (Sydney)
 
-EUCentral1 => The EU Central (Frankfurt) endpoint.
+ap-northeast-1 => Asia Pacific (Tokyo)
 
-EUNorth1 => The EU North (Stockholm) endpoint.
+ca-central-1 => Canada (Central)
 
-EUSouth1 => The Europe (Milan) endpoint.
+cn-north-1 => TChina (Beijing)
 
-EUWest1 => The EU West (Ireland) endpoint.
+cn-northwest-1 => China (Ningxia)
 
-EUWest2 => The EU West (London) endpoint.
+eu-central-1 => Europe (Frankfurt)
 
-EUWest3 => The EU West (Paris) endpoint.
+eu-west-1 => Europe (Ireland)
 
-MESouth1 => The Middle East (Bahrain) endpoint.
+eu-west-2 => Europe (London)
 
-SAEast1 => The South America (Sao Paulo) endpoint.
+eu-south-1 => Europe (Milan)
 
-USEast1 => 	The US East (Virginia) endpoint.
+eu-west-3 => 	Europe (Paris)
 
-USEast2 => The US East (Ohio) endpoint.
+eu-north-1 => Europe (Stockholm)
 
-USGovCloudEast1 => The US GovCloud East (Virginia) endpoint.
+me-south-1 => Middle East (Bahrain)
 
-USGovCloudWest1 => 	The US GovCloud West (Oregon) endpoint.
+sa-east-1 => 	South America (São Paulo)
 
-USWest1 => The US West (N. California) endpoint.
+us-gov-east-1 => AWS GovCloud (US-East)
 
-USWest2 => The US West (Oregon) endpoint.
+us-gov-west-1 => AWS GovCloud (US)
    
