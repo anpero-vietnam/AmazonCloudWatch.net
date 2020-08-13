@@ -102,7 +102,7 @@ namespace LogHelper
         }
         private Amazon.RegionEndpoint GetAmazonRegionEndpoint(string regionEndpointString)
         {
-            return Amazon.RegionEndpoint.EnumerableAllRegions.Where(r => r.ToString().Equals(regionEndpointString, StringComparison.InvariantCultureIgnoreCase)).FirstOrDefault() ?? Amazon.RegionEndpoint.APSoutheast1;
+            return Amazon.RegionEndpoint.GetBySystemName(regionEndpointString);
         }   
 
         #endregion private function
